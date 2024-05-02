@@ -1,4 +1,4 @@
-(https://github.com/aliahmed200/cv-builder/blob/new-version/src/Assets/screencapture-cv-builder-newversion-vercel-app-2024-05-02-20_54_43.png?raw=true)
+![alt text](https://github.com/aliahmed200/cv-builder/blob/new-version/src/Assets/screencapture-cv-builder-newversion-vercel-app-2024-05-02-20_54_43.png?raw=true)
 
 
 
