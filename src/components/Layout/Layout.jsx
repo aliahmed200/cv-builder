@@ -7,7 +7,9 @@ export default function Layout() {
   return (
     <div className="animate-faidIn">
       <Nav />
-      <Outlet />
+      <div className="px-10">
+        <Outlet />
+      </div>
       <Footer />
     </div>
   );

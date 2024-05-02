@@ -28,7 +28,7 @@ const Home = () => {
         <div className="flex flex-col md:flex-row items-center justify-around ">
           {/* Left section for text */}
           <div className="md:w-1/2 order-2 md:order-none py-10 animate-transFromLeft">
-            <h1 className="text-6xl lg:text-8xl font-bold mb-8  text-slate-800">
+            <h1 className="text-5xl lg:text-7xl font-bold mb-8  text-slate-800">
               Make the right cv and land your dream job!
             </h1>
             <p className="text-2xl text-gray-600 mb-8">
@@ -50,11 +50,11 @@ const Home = () => {
             </div>
           </div>
 
-          <div>
+          <div className="">
             <img
               src={images[currentImageIndex]}
               alt={`l ${currentImageIndex}`}
-              className="lg:w-[600px] w-[400px] flex-1 animate-float h-auto rounded-full"
+              className="lg:w-[500px] w-[400px] flex-1 animate-float h-auto rounded-full"
             />
           </div>
         </div>
