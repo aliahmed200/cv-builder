@@ -10,7 +10,7 @@ export default function MakeCv() {
         <title>Make Cv</title>
       </Helmet>
       <div className="flex flex-wrap justify-around mb-32 mt-10">
-        <div className=" lg:w-[50%] w-[100%]">
+        <div className=" lg:w-[45%] w-[100%]">
           <BuildCv />
         </div>
         <div className=" px-2 lg:w-[50%] w-[100%]">
