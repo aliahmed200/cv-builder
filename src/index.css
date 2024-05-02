@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Rubik Variable", sans-serif;
+}
+
+@layer components {
+  .btn-blue {
+    @apply py-2 px-4 border border-blue-300 text-slate-700 font-semibold rounded-lg outline outline-offset-2 outline-2 outline-blue-500;
+  }
+  .btn-red {
+    @apply py-2 px-4 border border-red-300 text-slate-700 font-semibold rounded-lg outline outline-offset-2 outline-2 outline-red-500;
+  }
+  .btn-title {
+    @apply py-2 px-4 border border-red-300 text-slate-700 font-semibold rounded-lg;
+  }
+  .input {
+    @apply bg-gray-50 border focus:outline-none focus:ring focus:ring-slate-300 transition border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3;
+  }
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: white;
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(30, 41, 59);
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(30, 41, 59, 0.5);
+}
+
+@media print {
+  .print-container {
+    page-break-after: always;
+  }
+
+  @page {
+    size: auto; /* auto is the default value */
+    margin: 0;
+  }
+
+  @page :first {
+    margin-top: 0; /* Suppresses top margin on first page */
+  }
+}
