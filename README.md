@@ -8,14 +8,11 @@
 
 ### Installation 🔧
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Run `yarn install` to install the project dependencies.
-4. Edit the `Schemas/Data.js` file with your personal information.
+### `npm install --update-binary --no-shrinkwrap`
 
 ### Running the App 🏃
 
-
+### `npm start`
 
 # Project Images
 
@@ -24,8 +21,6 @@
 ![alt text](https://github.com/aliahmed200/cv-builder/blob/new-version/src/Assets/3.png?raw=true)
 ![alt text](https://github.com/aliahmed200/cv-builder/blob/new-version/src/Assets/2.png?raw=true)
 
-
-### `npm start`
 
 ### a website in vercel
 
