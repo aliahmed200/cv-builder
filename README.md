@@ -1,3 +1,5 @@
+# Project Images
+
 ![alt text](https://github.com/aliahmed200/cv-builder/blob/new-version/src/Assets/1.png?raw=true)
 ![alt text](https://github.com/aliahmed200/cv-builder/blob/new-version/src/Assets/4.png?raw=true)
 ![alt text](https://github.com/aliahmed200/cv-builder/blob/new-version/src/Assets/3.png?raw=true)
@@ -20,10 +22,8 @@ This section has moved here: [https://cv-builder-newversion.vercel.app/](https:/
 ### `npm install --update-binary --no-shrinkwrap`
 
 ### Running the App 🏃
-### `npm start`
 
 ### `npm start`
 
-# Project Images
 
 
