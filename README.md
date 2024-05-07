@@ -7,7 +7,7 @@
 
 ### a website in vercel
 
-This section has moved here: [https://cv-builder-newversion.vercel.app/](https://cv-builder-newversion.vercel.app/)
+project Live: [https://cv-builder-newversion.vercel.app/](https://cv-builder-newversion.vercel.app/)
 
 ## react.js resume builder 🌟
 
